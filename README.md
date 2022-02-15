@@ -9,6 +9,7 @@
 ## 算法
 
 ## 缓存
+- [redis核心数据结构与核心原理](https://gitee.com/caoqingkui/Java_Study_Think/blob/master/src/cache/Redis-structure-principle.md)
 
-
+- [redis持久化主从哨兵](http://https://gitee.com/caoqingkui/Java_Study_Think/blob/master/src/cache/Redis-persistent-master-slave-Sentinel.md)
 
