@@ -30,5 +30,11 @@
 - [redis-cluster一台机器宕机后集群不可用](https://note.youdao.com/s/BEfIwH5x)
 
 
+## Hystrix
+- [hystrix详解](https://note.youdao.com/s/S0r8VMRW)
+
+- [hystrix源码](https://note.youdao.com/s/OoBpxUiM)
+
+- [hystix面试题](https://note.youdao.com/s/XeBLcc4p)
 
 
