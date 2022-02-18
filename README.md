@@ -7,6 +7,7 @@
 
 
 ## 算法
+- [LeetCode](https://note.youdao.com/s/dq7iZWIi)
 
 ## 缓存
 - [redis核心数据结构与核心原理](https://gitee.com/caoqingkui/Java_Study_Think/blob/master/src/cache/Redis-structure-principle.md)
@@ -37,4 +38,11 @@
 
 - [hystix面试题](https://note.youdao.com/s/XeBLcc4p)
 
+
+## Eureka
+- [eureka详解](https://note.youdao.com/s/ZLemtFnQ)
+
+- [eureka 服务端源码解析](https://note.youdao.com/s/ANYEoOdn)
+
+- [hystix面试题](https://note.youdao.com/s/XeBLcc4p)
 
