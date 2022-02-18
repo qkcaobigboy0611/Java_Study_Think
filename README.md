@@ -44,5 +44,28 @@
 
 - [eureka 服务端源码解析](https://note.youdao.com/s/ANYEoOdn)
 
-- [hystix面试题](https://note.youdao.com/s/XeBLcc4p)
 
+## 设计模式
+- [代理模式](https://note.youdao.com/s/aWTpkVmC)
+
+- [外观模式](https://note.youdao.com/s/6MpEW6NQ)
+
+- [装饰模式](https://note.youdao.com/s/PEve34cb)
+
+- [组合模式](https://note.youdao.com/s/SQVehptD)
+
+- [桥接模式](https://note.youdao.com/s/Q45gxtia)
+
+- [适配器模式](https://note.youdao.com/s/PjeI02y4)
+
+- [建造型模式](https://note.youdao.com/s/42DAekzt)
+
+- [原型模式](https://note.youdao.com/s/QkZsvquN)
+
+- [单例模式](https://note.youdao.com/s/cC8QbFmG)
+
+- [工厂模式](https://note.youdao.com/s/KWlCW6Ze)
+
+- [观察者模式流程](https://note.youdao.com/s/JD7jfg4j)
+
+- [职责链模式](https://note.youdao.com/s/9Tvw1mNc)
