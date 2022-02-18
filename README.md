@@ -69,3 +69,13 @@
 - [观察者模式流程](https://note.youdao.com/s/JD7jfg4j)
 
 - [职责链模式](https://note.youdao.com/s/9Tvw1mNc)
+
+
+## nginx
+- [nginx详解](https://note.youdao.com/s/Im84dfCI)
+
+- [nginx性能优化](https://note.youdao.com/s/A66fmCJV)
+
+- [nginx面试](https://note.youdao.com/s/1XeDrl32)
+
+- [冲突nginx面试](https://note.youdao.com/s/X2paYPum)
