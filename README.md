@@ -2,8 +2,11 @@
 
 本项目都是自己平时学习Java知识的总结，内容涵盖Java基础知识，算法，设计模式，并发，分布式，高可用，微服务等领域知识。下面是我对以上知识点的学习心得做了系统的整理，方便学习查阅。
 
-## Java基础知识
+## Devops
+- [jenkins可持续化集成](https://note.youdao.com/s/59MD8UC1)
 
+
+## Java基础知识
 
 
 ## 算法
@@ -79,3 +82,14 @@
 - [nginx面试](https://note.youdao.com/s/1XeDrl32)
 
 - [冲突nginx面试](https://note.youdao.com/s/X2paYPum)
+
+## ES
+- [ES的常用API详解](https://note.youdao.com/s/dc3WB59Q)
+
+
+## 网关
+- [GateWay详解](https://note.youdao.com/s/OhTx5Lgk)
+
+- [Gateway源码解析](https://note.youdao.com/s/PRUus4kv)
+
+
