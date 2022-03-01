@@ -92,4 +92,11 @@
 
 - [Gateway源码解析](https://note.youdao.com/s/PRUus4kv)
 
+## 并发
+- [并发编程JMMvolatile详解](https://note.youdao.com/s/M37qMEUP)
+
+- [synchronized](https://note.youdao.com/s/FKsspXDw)
+
+- [synchronized和AQS](https://note.youdao.com/s/24eueGo4)
+
 
