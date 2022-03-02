@@ -112,3 +112,7 @@
 - [ConcurrentHashMap](https://note.youdao.com/s/8bJOtuG7)
 
 - [并发编程面试突击](https://note.youdao.com/s/L2Fs6dtt)
+
+
+## 消息中间件
+#kafka
