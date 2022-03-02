@@ -13,21 +13,29 @@
 - [LeetCode](https://note.youdao.com/s/dq7iZWIi)
 
 ## 缓存
+- [redis基础一](https://note.youdao.com/s/b9GG4h1C)
+
+- [redis基础二](https://note.youdao.com/s/VG5CbqKS)
+
 - [redis核心数据结构与核心原理](https://gitee.com/caoqingkui/Java_Study_Think/blob/master/src/cache/Redis-structure-principle.md)
 
 - [redis持久化主从哨兵](https://gitee.com/caoqingkui/Java_Study_Think/blob/master/src/cache/Redis-persistent-master-slave-Sentinel.md)
 
-- [redis集群实现与原理分析](https://note.youdao.com/s/4gWBRAMr)
+- [redis集群部署以及演变过程](https://note.youdao.com/s/IEcsaoAz)
+
+- [redis集群实现与原理分析一](https://note.youdao.com/s/4gWBRAMr)
+
+- [redis集群实现与原理分析二](https://note.youdao.com/s/KYRT6Q8R)
+
+- [redis集群实现与原理分析三](https://note.youdao.com/s/bcqDkBus)
+
+- [redis客户端详解与源码分析](https://note.youdao.com/s/DKAALM0W)
 
 - [高并发分布式锁](https://note.youdao.com/s/4gWBRAMr)
-
-- [redis集群实现与原理分析](https://note.youdao.com/s/bcqDkBus)
 
 - [redis缓存设计与性能优化](https://note.youdao.com/s/ZdAN9bLN)
 
 - [redis面试题](https://note.youdao.com/s/YMAIiEt4)
-
-- [redis基础](https://note.youdao.com/s/b9GG4h1C)
 
 - [关于redis性能问题分析和优化](https://note.youdao.com/s/UxDUcl3e)
 
@@ -84,6 +92,12 @@
 - [冲突nginx面试](https://note.youdao.com/s/X2paYPum)
 
 ## ES
+- [ES基础一](https://note.youdao.com/s/MKVOIHWj)
+
+- [ES基础二](https://note.youdao.com/s/2To6jMhj)
+
+- [ES进阶](https://note.youdao.com/s/4Eok5Wty)
+
 - [ES的常用API详解](https://note.youdao.com/s/dc3WB59Q)
 
 
@@ -115,4 +129,71 @@
 
 
 ## 消息中间件
-#kafka
+- [RabbitMQ之消息中间件和RabbitMQ（上）](https://note.youdao.com/s/ZNkp3iGp)
+
+- [RabbitMQ之消息中间件和RabbitMQ(下)](https://note.youdao.com/s/aw1j0Ca0)
+
+- [RabbitMQ之RabbitMQ中消息发布与权衡(上)](https://note.youdao.com/s/6uFq8xtC)
+
+- [RabbitMQ之RabbitMQ中消息发布于与权衡(下)](https://note.youdao.com/s/4r2GE1NV)
+
+- [RabbitMQ之RabbitMQ高级特性与Spring集成](https://note.youdao.com/s/Y7RwEr9Q)
+
+
+- [Kafka之kafka概念](https://note.youdao.com/s/GsaNFntm)
+
+- [Kafka之kafka配置文件](https://note.youdao.com/s/J0aW7ZCQ)
+
+- [Kafka之zk搭建](https://note.youdao.com/s/38taMolz)
+
+- [Kafka之kafka集群搭建与使用一](https://note.youdao.com/s/RVHWcxsp)
+
+- [Kafka之kafka集群搭建与使用二](https://note.youdao.com/s/9YTb2XOX)
+
+- [Kafka之kafka集群安装出现的问题](https://note.youdao.com/s/HofylGSx)
+
+- [Kafka之kafka源码解析](https://note.youdao.com/s/K6bH4xOi)
+
+- [Kafka之kafka在项目中的应用](https://note.youdao.com/s/FtECHV7E)
+
+- [Kafka之kafka生产实践](https://note.youdao.com/s/YnbveZKA)
+
+
+## Sharding
+- [sharding快速开始](https://note.youdao.com/s/1xIadmhL)
+
+- [sharding核心源码剖析](https://note.youdao.com/s/Vcz2apDt)
+
+
+## Zookeeper
+- [zk核心概念](https://note.youdao.com/s/Nb4Q6USl)
+
+- [zk场景介绍及快速搭建](https://note.youdao.com/s/banYcTJF)
+
+- [zk源码分析](https://note.youdao.com/s/Sa9Bmdx8)
+
+- [zk的经典应用场景](https://note.youdao.com/s/GMAczZsc)
+
+- [zk实现分布式锁](https://note.youdao.com/s/LonaeubU)
+
+- [为什么需要分布式配置中心？](https://note.youdao.com/s/IzZOaEH7)
+
+
+
+
+## 公众号资料学习
+
+
+
+## 工作笔记
+
+## 书籍
+
+## 极客时间
+
+## 工具类
+
+- [阿里云工具类](https://note.youdao.com/s/G6UtPIQD)
+
+- [时间转换](https://note.youdao.com/s/Yny5VYpg)
+
