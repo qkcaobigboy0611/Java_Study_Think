@@ -99,4 +99,16 @@
 
 - [synchronized和AQS](https://note.youdao.com/s/24eueGo4)
 
+- [tools和CountDownLatch和Semaphore](https://note.youdao.com/s/3Y8NxHGD)
 
+- [Atomic和Unsafe](https://note.youdao.com/s/FwMdFX4v)
+
+- [Collection和Queue](https://note.youdao.com/s/1gmxRZhl)
+
+- [HashMap](https://note.youdao.com/s/c7IeomW3)
+
+- [HashMap之Face](https://note.youdao.com/s/PIaKYNIY)
+
+- [ConcurrentHashMap](https://note.youdao.com/s/8bJOtuG7)
+
+- [并发编程面试突击](https://note.youdao.com/s/L2Fs6dtt)
