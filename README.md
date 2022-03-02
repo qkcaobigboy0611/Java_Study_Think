@@ -187,7 +187,28 @@
 
 ## 工作笔记
 
-## 书籍
+## 书籍笔记
+
+- [Java并发编程实战](https://note.youdao.com/s/B4EvLxmx)
+
+- [Java并发实战](https://note.youdao.com/s/aBy01NMw)
+
+- [并发编程艺术](https://note.youdao.com/s/UpvioUu0)
+
+- [Java虚拟机](https://note.youdao.com/s/1qWIgrKU)
+
+- [kafka](https://note.youdao.com/s/ZvIGAR5s)
+
+- [Mysql(InnoDB)](https://note.youdao.com/s/ZAWeJCcY)
+
+- [阿里巴巴开发手册](https://note.youdao.com/s/9tGBum1O)
+
+- [高性能Mysql](https://note.youdao.com/s/EPmac0MC)
+
+- [重构](https://note.youdao.com/s/NwSlzs8C)
+
+
+
 
 ## 极客时间
 
