@@ -125,6 +125,16 @@
 
 - [ConcurrentHashMap](https://note.youdao.com/s/8bJOtuG7)
 
+- [ConcurrentHashMap之face](https://note.youdao.com/s/2JsMjQOM)
+
+- [Future和ForkJoin](https://note.youdao.com/s/Y9Tpf5s7)
+
+- [线程池之face](https://note.youdao.com/s/IoCDHUOF)
+
+- [ThreadPoolExecutor](https://note.youdao.com/s/2q1zTJz1)
+
+- [线程池](https://note.youdao.com/s/LWX8Jd65)
+
 - [并发编程面试突击](https://note.youdao.com/s/L2Fs6dtt)
 
 
@@ -179,9 +189,29 @@
 - [为什么需要分布式配置中心？](https://note.youdao.com/s/IzZOaEH7)
 
 
+## 性能优化
+- [深入理解mysql索引底层数据结构](https://note.youdao.com/s/3W0V3NGY)
 
 
-## 公众号资料学习
+
+
+
+## 公众号资料学习笔记
+- [Java 自定义注解及使用场景](https://note.youdao.com/s/8e4WaoRW)
+
+- [《吃透 MQ 系列》之 Kafka](https://note.youdao.com/s/XMxpsUFG)
+
+- [《吃透 MQ 系列》之核心基础篇](https://note.youdao.com/s/InzKLHq7)
+
+- [《吃透 XXX》，技术系列开篇](https://note.youdao.com/s/IzEbaElK)
+
+- [面试官：MySQL 唯一索引为什么会导致死锁？](https://note.youdao.com/s/T0bJQtvS)
+
+- [瞬间几千次的重复提交，我用 SpringBoot+Redis 扛住了](https://note.youdao.com/s/YKmKud4d)
+
+- [美团面试官：高并发、任务执行时间短的业务怎样使用线程池？](https://note.youdao.com/s/Sr7WOb3I)
+
+- [卧槽！工作十年总结：Java 多线程43条军规！](https://note.youdao.com/s/6LPPnPRb)
 
 
 
