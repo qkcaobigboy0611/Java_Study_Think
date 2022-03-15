@@ -193,6 +193,14 @@
 - [Quartz之note](https://note.youdao.com/s/OCSqhTfp)
 
 
+## 自练项目
+- [用户服务分布式session实战](https://note.youdao.com/s/PhuY4cDK)
+
+- [用户服务实战以及JWT实战管理](https://note.youdao.com/s/aXEefTGy)
+
+
+
+
 
 ## 性能优化
 - [深入理解mysql索引底层数据结构](https://note.youdao.com/s/3W0V3NGY)
