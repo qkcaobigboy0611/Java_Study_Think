@@ -198,6 +198,12 @@
 
 - [spring security之note2](https://note.youdao.com/s/SP3RIiqO)
 
+- [spring security之Debug](https://note.youdao.com/s/CBxpiqLz)
+
+- [spring security之源码解析](https://note.youdao.com/s/cVyttKaH)
+
+
+
 
 ## 自练项目
 - [用户服务分布式session实战](https://note.youdao.com/s/PhuY4cDK)
