@@ -6,11 +6,17 @@
 - [jenkins可持续化集成](https://note.youdao.com/s/59MD8UC1)
 
 
-## Java基础知识
+## Spring源码解析
+- [1.注解的使用](https://note.youdao.com/s/RKh3D3QO)
+
+- [2.加载bean定义信息（1）](https://note.youdao.com/s/V15MzTFS)
+
+- [2.加载bean定义信息（2）](https://note.youdao.com/s/9z4x5Mc3)
 
 
 ## 算法
 - [LeetCode](https://note.youdao.com/s/dq7iZWIi)
+
 
 ## 缓存
 - [redis基础一](https://note.youdao.com/s/b9GG4h1C)
@@ -91,6 +97,7 @@
 
 - [冲突nginx面试](https://note.youdao.com/s/X2paYPum)
 
+
 ## ES
 - [ES基础一](https://note.youdao.com/s/MKVOIHWj)
 
@@ -105,6 +112,7 @@
 - [GateWay详解](https://note.youdao.com/s/OhTx5Lgk)
 
 - [Gateway源码解析](https://note.youdao.com/s/PRUus4kv)
+
 
 ## 并发
 - [并发编程JMMvolatile详解](https://note.youdao.com/s/M37qMEUP)
@@ -162,11 +170,13 @@
 
 - [Kafka之kafka集群安装出现的问题](https://note.youdao.com/s/HofylGSx)
 
-- [Kafka之kafka源码解析](https://note.youdao.com/s/K6bH4xOi)
+- [Kafka之kafka源码解析](https://note.youdao.com/s/UsBZxJ6j)
 
 - [Kafka之kafka在项目中的应用](https://note.youdao.com/s/FtECHV7E)
 
 - [Kafka之kafka生产实践](https://note.youdao.com/s/YnbveZKA)
+
+- [Kafka之常见问题](https://note.youdao.com/s/H2ojUrd4)
 
 
 ## Sharding
@@ -194,6 +204,8 @@
 
 
 ## SpringSecurity
+- [Spring Security 概念](https://note.youdao.com/s/ThmeThSU)
+
 - [spring security之note1](https://note.youdao.com/s/JpEUAyHR)
 
 - [spring security之note2](https://note.youdao.com/s/SP3RIiqO)
@@ -203,22 +215,14 @@
 - [spring security之源码解析](https://note.youdao.com/s/cVyttKaH)
 
 
-
-
 ## 自练项目
 - [用户服务分布式session实战](https://note.youdao.com/s/PhuY4cDK)
 
 - [用户服务实战以及JWT实战管理](https://note.youdao.com/s/aXEefTGy)
 
 
-
-
-
 ## 性能优化
 - [深入理解mysql索引底层数据结构](https://note.youdao.com/s/3W0V3NGY)
-
-
-
 
 
 ## 公众号资料学习笔记
@@ -239,11 +243,11 @@
 - [卧槽！工作十年总结：Java 多线程43条军规！](https://note.youdao.com/s/6LPPnPRb)
 
 
-
 ## 工作笔记
 
-## 书籍笔记
+TODO....
 
+## 书籍笔记
 - [Java并发编程实战](https://note.youdao.com/s/B4EvLxmx)
 
 - [Java并发实战](https://note.youdao.com/s/aBy01NMw)
@@ -264,9 +268,9 @@
 - 
 
 
-
-
 ## 极客时间
+TODO.....
+
 
 ## 工具类
 
