@@ -99,11 +99,15 @@
 
 
 ## ES
-- [ES基础一](https://note.youdao.com/s/MKVOIHWj)
+- [ES基础](https://note.youdao.com/s/Yb8tExVj)
 
-- [ES基础二](https://note.youdao.com/s/2To6jMhj)
+- [ES进阶](https://note.youdao.com/s/ZPiUc0B3)
 
-- [ES进阶](https://note.youdao.com/s/4Eok5Wty)
+- [ES笔记（B站视频）](https://note.youdao.com/s/BgHoPaVF)
+
+- [ES之face 1](https://note.youdao.com/s/UHWNJerd)
+
+- [ES之face 2](https://note.youdao.com/s/XF27FaCF)
 
 - [ES的常用API详解](https://note.youdao.com/s/dc3WB59Q)
 
@@ -158,25 +162,36 @@
 - [RabbitMQ之RabbitMQ高级特性与Spring集成](https://note.youdao.com/s/Y7RwEr9Q)
 
 
-- [Kafka之kafka概念](https://note.youdao.com/s/GsaNFntm)
+- [Kafka之kafka参数配置](https://note.youdao.com/s/57OCVEEj)
 
-- [Kafka之kafka配置文件](https://note.youdao.com/s/J0aW7ZCQ)
+- [Kafka之kafka配置文件](https://note.youdao.com/s/GyPBZb9Q)
 
 - [Kafka之zk搭建](https://note.youdao.com/s/38taMolz)
 
-- [Kafka之kafka集群搭建与使用一](https://note.youdao.com/s/RVHWcxsp)
-
-- [Kafka之kafka集群搭建与使用二](https://note.youdao.com/s/9YTb2XOX)
+- [Kafka之kafka集群搭建](https://note.youdao.com/s/LO6Wfafa)
 
 - [Kafka之kafka集群安装出现的问题](https://note.youdao.com/s/HofylGSx)
 
-- [Kafka之kafka源码解析](https://note.youdao.com/s/UsBZxJ6j)
+- [《吃透 MQ 系列》之 Kafka](https://note.youdao.com/s/df5ZcFZr)
 
-- [Kafka之kafka在项目中的应用](https://note.youdao.com/s/FtECHV7E)
+- [Kafka之kafka在项目中的应用](https://note.youdao.com/s/UtjXqOKm)
 
 - [Kafka之kafka生产实践](https://note.youdao.com/s/YnbveZKA)
 
+- [kafka集群安装出现的问题](https://note.youdao.com/s/HofylGSx)
+
 - [Kafka之常见问题](https://note.youdao.com/s/H2ojUrd4)
+
+- [kafka权威指南](https://note.youdao.com/s/cahoajlG)
+
+- [kafka 之 face 1](https://note.youdao.com/s/4etMEbRZ)
+
+- [kafka 之 face 2](https://note.youdao.com/s/GpNuGnQ9)
+
+- [kafka 之 face 3](https://note.youdao.com/s/Tzg8i304)
+
+- [kafka 之 face 4](https://note.youdao.com/s/VaOt3oUK)
+
 
 
 ## Sharding
@@ -215,10 +230,34 @@
 - [spring security之源码解析](https://note.youdao.com/s/cVyttKaH)
 
 
+## MongoDB
+- [MongoDB基础 1](https://note.youdao.com/s/IqBuvPao)
+
+- [MongoDB基础 2](https://note.youdao.com/s/5Nswo2b9)
+
+
+## TCP/IP
+TODO......
+
+
 ## 自练项目
 - [用户服务分布式session实战](https://note.youdao.com/s/PhuY4cDK)
 
 - [用户服务实战以及JWT实战管理](https://note.youdao.com/s/aXEefTGy)
+
+- [电商项目微服务项目拆分及授权中心实战 1](https://note.youdao.com/s/YrJFtvsz)
+
+- [电商项目微服务项目拆分及授权中心实战 2](https://note.youdao.com/s/DVZYdI9u)
+
+- [从零到一实战高性能网关服务及授权中心对接](https://note.youdao.com/s/4J7ozfhw)
+
+- [网关服务限流及分布式事务实战](https://note.youdao.com/s/dp5rL3jH)
+
+- [秒杀系统商品详情多级缓存优化实战上](https://note.youdao.com/s/PnI3OMHa)
+
+- [秒杀系统商品详情多级缓存优化实战下](https://note.youdao.com/s/BxLHl16i)
+
+- [订单异步处理以及超时处理](https://note.youdao.com/s/KnY51Rnv)
 
 
 ## 性能优化
