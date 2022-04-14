@@ -193,9 +193,8 @@
 - [kafka 之 face 4](https://note.youdao.com/s/VaOt3oUK)
 
 
-
 ## Sharding
-- [sharding快速开始](https://note.youdao.com/s/1xIadmhL)
+- [sharding快速开始](https://note.youdao.com/s/RDG5FYqq)
 
 - [sharding核心源码剖析](https://note.youdao.com/s/Vcz2apDt)
 
@@ -207,9 +206,11 @@
 
 - [zk源码分析](https://note.youdao.com/s/Sa9Bmdx8)
 
-- [zk的经典应用场景](https://note.youdao.com/s/GMAczZsc)
+- [zk的经典应用场景](https://note.youdao.com/s/RcouCCHF)
 
-- [zk实现分布式锁](https://note.youdao.com/s/LonaeubU)
+- [zk实现分布式锁](https://note.youdao.com/s/RP4bKk0s)
+
+- [高并发分布式锁](https://note.youdao.com/s/bcqDkBus)
 
 - [为什么需要分布式配置中心？](https://note.youdao.com/s/IzZOaEH7)
 
@@ -219,7 +220,7 @@
 
 
 ## SpringSecurity
-- [Spring Security 概念](https://note.youdao.com/s/ThmeThSU)
+- [Spring Security 概念](https://note.youdao.com/s/VuY6LO16)
 
 - [spring security之note1](https://note.youdao.com/s/JpEUAyHR)
 
@@ -235,9 +236,19 @@
 
 - [MongoDB基础 2](https://note.youdao.com/s/5Nswo2b9)
 
+- [mongoDB高级 1](https://note.youdao.com/s/9LTyIWlG)
+
+- [mongoDB之face 1](https://note.youdao.com/s/BeFoPGxG)
+
 
 ## TCP/IP
-TODO......
+- [基础知识 1](https://note.youdao.com/s/7oYnubvr)
+
+
+##Seata
+- [基础知识](https://note.youdao.com/s/T4HR0fHF)
+
+- [分布式事务](https://note.youdao.com/s/J4Zl4irS)
 
 
 ## 自练项目
