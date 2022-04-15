@@ -2,8 +2,26 @@
 
 本项目都是自己平时学习Java知识的总结，内容涵盖Java基础知识，算法，设计模式，并发，分布式，高可用，微服务等领域知识。下面是我对以上知识点的学习心得做了系统的整理，方便学习查阅。
 
+
 ## Devops
 - [jenkins可持续化集成](https://note.youdao.com/s/59MD8UC1)
+
+
+##JVM
+- [1.类加载机制](https://note.youdao.com/s/isLIedm)
+
+- [2.JVM内存模型（运行时数据区）](https://note.youdao.com/s/tiVRbNT)
+
+- [3.jvm内存分配机制与垃圾回收算法](https://note.youdao.com/s/HIRRxb57)
+
+- [4.JVM垃圾收集器](https://note.youdao.com/s/Ty41pknb)
+
+- [5.JVM调优工具](https://note.youdao.com/s/cND2Fh2q)
+
+- [6.常量池](https://note.youdao.com/s/55hf5YQm)
+
+- [JVM 之 face 1](https://note.youdao.com/s/TiWWKwQa)
+
 
 
 ## Spring源码解析
