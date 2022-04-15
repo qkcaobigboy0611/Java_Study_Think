@@ -7,7 +7,7 @@
 - [jenkins可持续化集成](https://note.youdao.com/s/59MD8UC1)
 
 
-##JVM
+## JVM
 - [1.类加载机制](https://note.youdao.com/s/isLIedm)
 
 - [2.JVM内存模型（运行时数据区）](https://note.youdao.com/s/tiVRbNT)
