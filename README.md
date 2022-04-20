@@ -37,33 +37,27 @@
 
 
 ## 缓存
-- [redis基础一](https://note.youdao.com/s/b9GG4h1C)
+- [1.redis核心数据结构与核心原理](https://note.youdao.com/s/4V5rYfVu)
 
-- [redis基础二](https://note.youdao.com/s/VG5CbqKS)
+- [2.redis持久化主从哨兵之 持久化](https://note.youdao.com/s/Tfd2FhkH)
 
-- [redis核心数据结构与核心原理](https://gitee.com/caoqingkui/Java_Study_Think/blob/master/src/cache/Redis-structure-principle.md)
+- [2.redis持久化主从哨兵之 主从哨兵](https://note.youdao.com/s/aHXZ8Yr9)
 
-- [redis持久化主从哨兵](https://gitee.com/caoqingkui/Java_Study_Think/blob/master/src/cache/Redis-persistent-master-slave-Sentinel.md)
+- [3.redis集群实现与原理分析](https://note.youdao.com/s/4gWBRAMr)
 
-- [redis集群部署以及演变过程](https://note.youdao.com/s/IEcsaoAz)
+- [5.redis缓存设计与性能优化](https://note.youdao.com/s/ZdAN9bLN)
 
-- [redis集群实现与原理分析一](https://note.youdao.com/s/4gWBRAMr)
+- [redis 之face 1](https://note.youdao.com/s/YMAIiEt4)
 
-- [redis集群实现与原理分析二](https://note.youdao.com/s/KYRT6Q8R)
+- [redis 之face 2](https://note.youdao.com/s/b9GG4h1C)
 
-- [redis集群实现与原理分析三](https://note.youdao.com/s/bcqDkBus)
+- [redis 之face 3](https://note.youdao.com/s/Se5skeMW)
 
-- [redis客户端详解与源码分析](https://note.youdao.com/s/DKAALM0W)
+- [redis 之face 4](https://note.youdao.com/s/TWM49TNN)
 
-- [高并发分布式锁](https://note.youdao.com/s/4gWBRAMr)
+- [redis 之face 5](https://note.youdao.com/s/U2b5310r)
 
-- [redis缓存设计与性能优化](https://note.youdao.com/s/ZdAN9bLN)
-
-- [redis面试题](https://note.youdao.com/s/YMAIiEt4)
-
-- [关于redis性能问题分析和优化](https://note.youdao.com/s/UxDUcl3e)
-
-- [redis-cluster一台机器宕机后集群不可用](https://note.youdao.com/s/BEfIwH5x)
+- [redis 之face 6](https://note.youdao.com/s/WqbfdFEH)
 
 
 ## Hystrix
