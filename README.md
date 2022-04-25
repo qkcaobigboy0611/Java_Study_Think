@@ -59,6 +59,18 @@
 
 - [redis 之face 6](https://note.youdao.com/s/WqbfdFEH)
 
+- [redis 之face 7](https://note.youdao.com/noteshare?id=b692707c9d7a23f3d41dbc56bbc48c14)
+
+- [redis 之face 8](https://note.youdao.com/noteshare?id=e728cf5b93fda376c87b80cb9f2623bc)
+
+- [redis 之face 9](https://note.youdao.com/noteshare?id=aa77858e934ac2f40884c44a9994a9ca)
+
+- [redis 之face 10](https://note.youdao.com/noteshare?id=f12a516f8c931d76b7cf724d7cc4dbb8)
+
+- [redis 之face 11](https://note.youdao.com/noteshare?id=72d6761e09395b83463649e944ad47cf)
+
+- [redis 之face 12](https://note.youdao.com/noteshare?id=6cfdd1403fa83c6fe07c5b224f0af778)
+
 
 ## Hystrix
 - [hystrix详解](https://note.youdao.com/s/S0r8VMRW)
