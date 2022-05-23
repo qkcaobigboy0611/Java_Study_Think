@@ -8,28 +8,41 @@
 
 
 ## JVM
-- [1.类加载机制](https://note.youdao.com/s/isLIedm)
+- [1.类加载机制](https://note.youdao.com/s/YCYmRBdO)
 
-- [2.JVM内存模型（运行时数据区）](https://note.youdao.com/s/tiVRbNT)
+- [2.JVM内存模型（运行时数据区）](https://note.youdao.com/s/MO0DEf5Q)
 
-- [3.jvm内存分配机制与垃圾回收算法](https://note.youdao.com/s/HIRRxb57)
+- [3.jvm内存分配机制与垃圾回收算法](https://note.youdao.com/s/8kdfGxRu)
 
-- [4.JVM垃圾收集器](https://note.youdao.com/s/Ty41pknb)
+- [4.JVM垃圾收集器](https://note.youdao.com/s/I3SkcEa1)
 
-- [5.JVM调优工具](https://note.youdao.com/s/cND2Fh2q)
+- [5.JVM调优工具](https://note.youdao.com/s/H0ti3BmV)
 
-- [6.常量池](https://note.youdao.com/s/55hf5YQm)
+- [6.常量池](https://note.youdao.com/s/ECqHBpae)
 
-- [JVM 之 face 1](https://note.youdao.com/s/TiWWKwQa)
+- [JVM 之 face 1](https://note.youdao.com/s/QEttvn1S)
 
+- [JVM 之 face 2](https://note.youdao.com/s/1yiMsu4r)
+
+- [JVM 之 face 3](https://note.youdao.com/s/bvJIFixp)
+
+- [JVM 之 face 4](https://note.youdao.com/s/Y1orxps4)
 
 
 ## Spring源码解析
-- [1.注解的使用](https://note.youdao.com/s/RKh3D3QO)
+- [1.注解的使用](https://note.youdao.com/s/YWDqiRKT)
 
 - [2.加载bean定义信息（1）](https://note.youdao.com/s/V15MzTFS)
 
 - [2.加载bean定义信息（2）](https://note.youdao.com/s/9z4x5Mc3)
+
+- [01 Spring Bean定义常见错误](https://note.youdao.com/s/7prPfpsB)
+
+- [spring之face 1](https://note.youdao.com/s/VhLCtcfN)
+
+- [spring之face 2](https://note.youdao.com/s/QkRGkaZG)
+
+- [spring之face 3](https://note.youdao.com/s/CWpd7cOr)
 
 
 ## 算法
@@ -37,19 +50,19 @@
 
 
 ## 缓存
-- [1.redis核心数据结构与核心原理](https://note.youdao.com/s/4V5rYfVu)
+- [1.redis核心数据结构与核心原理](https://note.youdao.com/s/Ie57VpVW)
 
-- [2.redis持久化主从哨兵之 持久化](https://note.youdao.com/s/Tfd2FhkH)
+- [2.redis持久化主从哨兵之 持久化](https://note.youdao.com/s/3bRrDHPQ)
 
 - [2.redis持久化主从哨兵之 主从哨兵](https://note.youdao.com/s/aHXZ8Yr9)
 
 - [3.redis集群实现与原理分析](https://note.youdao.com/s/4gWBRAMr)
 
-- [5.redis缓存设计与性能优化](https://note.youdao.com/s/ZdAN9bLN)
+- [5.redis缓存设计与性能优化](https://note.youdao.com/s/3VpjkWYM)
 
-- [redis 之face 1](https://note.youdao.com/s/YMAIiEt4)
+- [redis 之face 1](https://note.youdao.com/s/J2VO1Hbm)
 
-- [redis 之face 2](https://note.youdao.com/s/b9GG4h1C)
+- [redis 之face 2](https://note.youdao.com/s/ZHgnvqHg)
 
 - [redis 之face 3](https://note.youdao.com/s/Se5skeMW)
 
@@ -57,19 +70,19 @@
 
 - [redis 之face 5](https://note.youdao.com/s/U2b5310r)
 
-- [redis 之face 6](https://note.youdao.com/s/WqbfdFEH)
+- [redis 之face 6](https://note.youdao.com/s/e5AYbnC)
 
-- [redis 之face 7](https://note.youdao.com/noteshare?id=b692707c9d7a23f3d41dbc56bbc48c14)
+- [redis 之face 7](https://note.youdao.com/s/Xn6dvBmD)
 
-- [redis 之face 8](https://note.youdao.com/noteshare?id=e728cf5b93fda376c87b80cb9f2623bc)
+- [redis 之face 8](https://note.youdao.com/s/JS3qayuq)
 
-- [redis 之face 9](https://note.youdao.com/noteshare?id=aa77858e934ac2f40884c44a9994a9ca)
+- [redis 之face 9](https://note.youdao.com/s/BIg6agPe)
 
-- [redis 之face 10](https://note.youdao.com/noteshare?id=f12a516f8c931d76b7cf724d7cc4dbb8)
+- [redis 之face 10](https://note.youdao.com/s/ZTrUMUkI)
 
-- [redis 之face 11](https://note.youdao.com/noteshare?id=72d6761e09395b83463649e944ad47cf)
+- [redis 之face 11](https://note.youdao.com/s/Yfv1Rr5R)
 
-- [redis 之face 12](https://note.youdao.com/noteshare?id=6cfdd1403fa83c6fe07c5b224f0af778)
+- [redis 之face 12](https://note.youdao.com/s/zjyqGCl)
 
 
 ## Hystrix
@@ -87,25 +100,25 @@
 
 
 ## 设计模式
-- [代理模式](https://note.youdao.com/s/aWTpkVmC)
+- [代理模式](https://note.youdao.com/s/XWbAuHQV)
 
 - [外观模式](https://note.youdao.com/s/6MpEW6NQ)
 
-- [装饰模式](https://note.youdao.com/s/PEve34cb)
+- [装饰模式](https://note.youdao.com/s/TtLbcehU)
 
 - [组合模式](https://note.youdao.com/s/SQVehptD)
 
-- [桥接模式](https://note.youdao.com/s/Q45gxtia)
+- [桥接模式](https://note.youdao.com/s/GFLA3mjf)
 
-- [适配器模式](https://note.youdao.com/s/PjeI02y4)
+- [适配器模式](https://note.youdao.com/s/VABFnF75)
 
-- [建造型模式](https://note.youdao.com/s/42DAekzt)
+- [建造型模式](https://note.youdao.com/s/7SfJNgSs)
 
-- [原型模式](https://note.youdao.com/s/QkZsvquN)
+- [原型模式](https://note.youdao.com/s/GjPt6mNN)
 
-- [单例模式](https://note.youdao.com/s/cC8QbFmG)
+- [单例模式](https://note.youdao.com/s/Wr5JYRnd)
 
-- [工厂模式](https://note.youdao.com/s/KWlCW6Ze)
+- [工厂模式](https://note.youdao.com/s/FR8WiD7O)
 
 - [观察者模式流程](https://note.youdao.com/s/JD7jfg4j)
 
@@ -137,41 +150,57 @@
 
 
 ## 网关
-- [GateWay详解](https://note.youdao.com/s/OhTx5Lgk)
+- [GateWay详解1](https://note.youdao.com/s/3b3eYt9I)
+
+- [GateWay详解2](https://note.youdao.com/s/cZmRjDaW)
 
 - [Gateway源码解析](https://note.youdao.com/s/PRUus4kv)
 
 
 ## 并发
-- [并发编程JMMvolatile详解](https://note.youdao.com/s/M37qMEUP)
+- [Lock和Condition](https://note.youdao.com/s/Y5gYG5uF)
 
-- [synchronized](https://note.youdao.com/s/FKsspXDw)
+- [并发编程JMM详解](https://note.youdao.com/s/QHUnyd1r)
 
-- [synchronized和AQS](https://note.youdao.com/s/24eueGo4)
+- [synchronized](https://note.youdao.com/s/6OIyRRtD)
 
-- [tools和CountDownLatch和Semaphore](https://note.youdao.com/s/3Y8NxHGD)
+- [synchronized与volatile](https://note.youdao.com/s/CGxuomzL)
 
-- [Atomic和Unsafe](https://note.youdao.com/s/FwMdFX4v)
+- [synchronized和AQS](https://note.youdao.com/s/MLlmWbBm)
 
-- [Collection和Queue](https://note.youdao.com/s/1gmxRZhl)
+- [tools和CountDownLatch和Semaphore](https://note.youdao.com/s/JGLYLq6j)
 
-- [HashMap](https://note.youdao.com/s/c7IeomW3)
+- [Atomic和Unsafe](https://note.youdao.com/s/HSHg7c4F)
 
-- [HashMap之Face](https://note.youdao.com/s/PIaKYNIY)
+- [Collection和Queue 并发容器 1](https://note.youdao.com/s/acVKC9Q0)
+
+- [Collection和Queue 并发容器 2](https://note.youdao.com/s/89cDY480)
+
+- [HashMap](https://note.youdao.com/s/QA6tO818)
+
+- [HashMap之Face](https://note.youdao.com/s/HtNNstHU)
 
 - [ConcurrentHashMap](https://note.youdao.com/s/8bJOtuG7)
 
-- [ConcurrentHashMap之face](https://note.youdao.com/s/2JsMjQOM)
+- [ConcurrentHashMap之face](https://note.youdao.com/s/8ubAclI0)
 
 - [Future和ForkJoin](https://note.youdao.com/s/Y9Tpf5s7)
 
-- [线程池之face](https://note.youdao.com/s/IoCDHUOF)
+- [线程池](https://note.youdao.com/s/Gtylr6qV)
 
-- [ThreadPoolExecutor](https://note.youdao.com/s/2q1zTJz1)
+- [线程池之face](https://note.youdao.com/s/MfBURsEY)
+
+- [StampedLock，CountDownLatch和CyclicBarrier](https://note.youdao.com/s/6anFTrrk)
+
+- [CompletableFuture和CompletionService](https://note.youdao.com/s/5Ai4Ltib)
+
+- [Future和ForkJoin ](https://note.youdao.com/s/QS7MbI7X)
 
 - [线程池](https://note.youdao.com/s/LWX8Jd65)
 
-- [并发编程面试突击](https://note.youdao.com/s/L2Fs6dtt)
+- [线程池之face](https://note.youdao.com/s/MfBURsEY)
+
+- [并发编程之face 1](https://note.youdao.com/s/11lmGXdq)
 
 
 ## 消息中间件
@@ -186,31 +215,23 @@
 - [RabbitMQ之RabbitMQ高级特性与Spring集成](https://note.youdao.com/s/Y7RwEr9Q)
 
 
-- [Kafka之kafka参数配置](https://note.youdao.com/s/57OCVEEj)
+- [kakfa](https://note.youdao.com/s/Iji79TaK)
 
-- [Kafka之kafka配置文件](https://note.youdao.com/s/GyPBZb9Q)
-
-- [Kafka之zk搭建](https://note.youdao.com/s/38taMolz)
+- [Kafka之zk搭建](https://note.youdao.com/s/4jcV5FHJ)
 
 - [Kafka之kafka集群搭建](https://note.youdao.com/s/LO6Wfafa)
 
 - [Kafka之kafka集群安装出现的问题](https://note.youdao.com/s/HofylGSx)
 
-- [《吃透 MQ 系列》之 Kafka](https://note.youdao.com/s/df5ZcFZr)
+- [kafka第二节](https://note.youdao.com/s/UsBZxJ6j)
 
 - [Kafka之kafka在项目中的应用](https://note.youdao.com/s/UtjXqOKm)
 
-- [Kafka之kafka生产实践](https://note.youdao.com/s/YnbveZKA)
-
-- [kafka集群安装出现的问题](https://note.youdao.com/s/HofylGSx)
-
 - [Kafka之常见问题](https://note.youdao.com/s/H2ojUrd4)
 
-- [kafka权威指南](https://note.youdao.com/s/cahoajlG)
+- [kafka 之 face 1](https://note.youdao.com/s/7dtR71mz)
 
-- [kafka 之 face 1](https://note.youdao.com/s/4etMEbRZ)
-
-- [kafka 之 face 2](https://note.youdao.com/s/GpNuGnQ9)
+- [kafka 之 face 2](https://note.youdao.com/s/cPoLJdw6)
 
 - [kafka 之 face 3](https://note.youdao.com/s/Tzg8i304)
 
@@ -232,9 +253,9 @@
 
 - [zk的经典应用场景](https://note.youdao.com/s/RcouCCHF)
 
-- [zk实现分布式锁](https://note.youdao.com/s/RP4bKk0s)
+- [zk实现分布式锁](https://note.youdao.com/s/W8KBXXPy)
 
-- [高并发分布式锁](https://note.youdao.com/s/bcqDkBus)
+- [高并发分布式锁](https://note.youdao.com/s/6gmNJu2b)
 
 - [为什么需要分布式配置中心？](https://note.youdao.com/s/IzZOaEH7)
 
