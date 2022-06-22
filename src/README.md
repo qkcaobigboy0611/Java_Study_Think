@@ -12,4 +12,4 @@
 
 ## 缓存
 
-- redis核心数据结构与核心原理qkcaotest2
+- redis核心数据结构与核心原理qkcaotest
